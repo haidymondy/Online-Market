@@ -1,0 +1,20 @@
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.vcxproj.AssemblyReference.cache
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.vcxproj.SuggestedBindingRedirects.cache
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.Start.resources
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.vcxproj.GenerateResource.cache
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.SellerLogin.resources
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.SellerRegister.resources
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.CustomerLogin.resources
+D:\project DS\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.CustomerRegister.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.vcxproj.AssemblyReference.cache
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.vcxproj.SuggestedBindingRedirects.cache
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.CustomerLogin.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.CustomerRegister.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.SellerLogin.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.SellerRegister.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.Start.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.vcxproj.GenerateResource.cache
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.productRegistration.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.cartGui.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.Market.resources
+D:\OnlineMarket\OnlineMarket\x64\Debug\OnlineMarket.Admin.resources
